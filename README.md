@@ -10,7 +10,7 @@
 * _Javascript
 
 ## Description
-
+This page will prompt you to enter in a number and it will add the numbers and submit a result.
 
 
 ## Setup/Installation Requirements
