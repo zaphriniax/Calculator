@@ -18,6 +18,7 @@ const number1 = parseInt(prompt("Enter a number to add"));
 const number2 = parseInt(prompt("Enter another number add"));
 window.alert(saySomething("The sum is " + add(number1, number2) + "!"));
 const number3 = parseInt(prompt("Enter a number to subtract"));
-const number4 = parseInt(prompt("Enter another number to subtract"))
-
+const number4 = parseInt(prompt("Enter another number to subtract"));
+const number5 = parseInt(prompt("Enter a number to multiply"));
+const number6 = parseInt(prompt("Enter another number to multiply"));
 window.alert(subtract(number3, number4));
