@@ -7,6 +7,9 @@ function subtract(number3, number4) {
   return number3 - number4;
 }
 
+function multiply(number5, number6) {
+  return number5 * number6;
+}
 // user interface logic
 function saySomething(whatToSay) {
   window.alert(whatToSay);
